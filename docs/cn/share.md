@@ -1,5 +1,5 @@
 [上一页](support.md)
-[回目录](../../README.md)
+[回目录](../../README_QMQ.md)
 [下一页](faq.md)
 
 # 文章
@@ -17,5 +17,5 @@
 * [去哪儿消息队列演进](http://www.itdks.com/Home/Course/detail?type=normal&id=9304)
 
 [上一页](support.md)
-[回目录](../../README.md)
+[回目录](../../README_QMQ.md)
 [下一页](faq.md)

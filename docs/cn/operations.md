@@ -1,5 +1,5 @@
 [上一页](debug.md)
-[回目录](../../README.md)
+[回目录](../../README_QMQ.md)
 [下一页](db.md)
 
 # 运维
@@ -33,5 +33,5 @@ $ tools.sh ResetOffset --metaserver=<metaserver address> --token=<token> --subje
 ```
 
 [上一页](debug.md)
-[回目录](../../README.md)
+[回目录](../../README_QMQ.md)
 [下一页](db.md)

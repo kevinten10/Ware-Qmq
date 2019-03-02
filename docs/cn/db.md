@@ -1,5 +1,5 @@
 [上一页](operations.md)
-[回目录](../../README.md)
+[回目录](../../README_QMQ.md)
 [下一页](opensource.md)
 
 # 支持其他db
@@ -45,5 +45,5 @@ INSERT INTO qmq_produce.qmq_msg_queue(content,create_time) VALUES(?,?)
 ```
 
 [上一页](operations.md)
-[回目录](../../README.md)
+[回目录](../../README_QMQ.md)
 [下一页](opensource.md)

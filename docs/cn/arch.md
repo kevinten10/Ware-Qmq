@@ -1,5 +1,5 @@
 [上一页](design.md)
-[回目录](../../README.md)
+[回目录](../../README_QMQ.md)
 [下一页](code.md)
 
 # 架构概览
@@ -63,5 +63,5 @@ QMQ的延时/定时消息使用的是两层hash wheel来实现的。第一层位
 * dispatch log 延时/定时消息投递成功后写入，主要用于在应用重启后能够确定哪些消息已经投递，dispatch log里写入的是消息的offset，不包含消息内容。当延时server中途重启时，我们需要判断出当前这个刻度(比如一个小时)里的消息有哪些已经投递了则不重复投递。
 
 [上一页](design.md)
-[回目录](../../README.md)
+[回目录](../../README_QMQ.md)
 [下一页](code.md)

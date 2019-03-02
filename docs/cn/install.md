@@ -1,5 +1,5 @@
 [上一页](quickstart.md)
-[回目录](../../README.md)
+[回目录](../../README_QMQ.md)
 [下一页](design.md)
 
 # 安装
@@ -343,5 +343,5 @@ sql  -- 初始化db的目录
 
 
 [上一页](quickstart.md)
-[回目录](../../README.md)
+[回目录](../../README_QMQ.md)
 [下一页](design.md)

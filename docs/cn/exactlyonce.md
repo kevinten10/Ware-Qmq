@@ -1,5 +1,5 @@
 [上一页](consumer.md)
-[回目录](../../README.md)
+[回目录](../../README_QMQ.md)
 [下一页](net.md)
 
 # 幂等Exactly once消费
@@ -96,5 +96,5 @@ QMQ默认提供了基于db的幂等处理器，但是使用方也可以很容易
 
 
 [上一页](consumer.md)
-[回目录](../../README.md)
+[回目录](../../README_QMQ.md)
 [下一页](net.md)
